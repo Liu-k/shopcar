@@ -1,0 +1,87 @@
+[{
+    "id": 0,
+    "img": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3392864018,529864497&fm=26&gp=0.jpg",
+    "title": "进口橘 约450g",
+    "newPrice": "9.90",
+    "listImg": ["https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3392864018,529864497&fm=26&gp=0.jpg", "http://img2.imgtn.bdimg.com/it/u=3196887881,2263526311&fm=26&gp=0.jpg"],
+    "count": 1,
+    "flag": false
+},
+{
+    "id": 1,
+    "img": "http://img2.imgtn.bdimg.com/it/u=3196887881,2263526311&fm=26&gp=0.jpg",
+    "title": "红李 约900g",
+    "newPrice": "7.20",
+    "oldPrice": "9.90",
+    "count": 1,
+    "flag": false
+},
+{
+    "id": 2,
+    "img": "http://img2.imgtn.bdimg.com/it/u=4168485389,775621969&fm=26&gp=0.jpg",
+    "title": "京欣西瓜 1粒",
+    "newPrice": "19.99",
+    "oldPrice": "26.00",
+    "listImg": ["http://img2.imgtn.bdimg.com/it/u=4168485389,775621969&fm=26&gp=0.jpg", "http://img2.imgtn.bdimg.com/it/u=3196887881,2263526311&fm=26&gp=0.jpg"],
+    "count": 1,
+    "flag": false
+},
+{
+    "id": 3,
+    "img": "http://img2.imgtn.bdimg.com/it/u=1875343922,1165718694&fm=26&gp=0.jpg",
+    "title": "金针菇 【精】 约400g",
+    "newPrice": "1.98",
+    "oldPrice": "4.00",
+    "count": 1,
+    "flag": false
+},
+{
+    "id": 4,
+    "img": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2120263107,1263712082&fm=26&gp=0.jpg",
+    "title": "菠菜 【袋】 约350g",
+    "newPrice": "2.90",
+    "count": 1,
+    "flag": false
+},
+{
+    "id": 5,
+    "img": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4075270550,1132883720&fm=26&gp=0.jpg",
+    "title": "胡萝卜 【精】 约400g",
+    "newPrice": "2.90",
+    "count": 1,
+    "flag": false
+},
+{
+    "id": 6,
+    "img": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4075270550,1132883720&fm=26&gp=0.jpg",
+    "title": "胡萝卜 【精】 约400g",
+    "newPrice": "2.90",
+    "count": 1,
+    "flag": false
+},
+{
+    "id": 7,
+    "img": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3392864018,529864497&fm=26&gp=0.jpg",
+    "title": "进口橘 约450g",
+    "newPrice": "9.90",
+    "count": 1,
+    "flag": false
+},
+{
+    "id": 8,
+    "img": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4075270550,1132883720&fm=26&gp=0.jpg",
+    "title": "胡萝卜 【精】 约400g",
+    "newPrice": "2.90",
+    "count": 1,
+    "flag": false
+},
+{
+    "id": 9,
+    "img": "http://img2.imgtn.bdimg.com/it/u=1875343922,1165718694&fm=26&gp=0.jpg",
+    "title": "金针菇 【精】 约400g",
+    "newPrice": "1.98",
+    "oldPrice": "4.00",
+    "count": 1,
+    "flag": false
+}
+]
