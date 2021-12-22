@@ -1,6 +1,6 @@
 <template>
   <div>
-      my
+      我的
   </div>
 </template>
 
